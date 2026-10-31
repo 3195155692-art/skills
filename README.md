@@ -7,7 +7,7 @@
 | 分类 | 数量 | 说明 |
 |---|---|---|
 | [academic-writing](academic-writing/) | 46 | 学术写作与论文出版全流程：论文写作与润色、学术图表与插图、海报、会议演讲幻灯片、… |
-| [bioinformatics](bioinformatics/) | 37 | 生物信息与基因组学：单细胞分析、RNA-seq、基因组区间运算、系统发育、通路富… |
+| [bioinformatics](bioinformatics/) | 38 | 生物信息与基因组学：单细胞分析、RNA-seq、基因组区间运算、系统发育、通路富… |
 | [cheminformatics](cheminformatics/) | 19 | 化学信息与药物发现：RDKit 等化学工具、分子对接、分子动力学、蛋白工程、药物… |
 | [clinical-medical](clinical-medical/) | 22 | 医学临床与实验室：临床决策支持、病理与医学影像、DICOM、实验室自动化、电子实… |
 | [cloud-utils](cloud-utils/) | 31 | 云平台与工程工具：云 GPU 资源、实验追踪、网络搜索、通知、可观测性、调试与通… |
