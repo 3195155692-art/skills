@@ -17,7 +17,7 @@
 | [literature-review](literature-review/) | 19 | 文献检索、下载与阅读：覆盖 arXiv、OpenAlex、Semantic Sc… |
 | [lky](lky/) | 4 | 个人定制工作流（lky 系列），包含中文润色、组会汇报 PPT、搜索与公众号写作… |
 | [ml-frameworks](ml-frameworks/) | 49 | 机器学习框架与训练：分布式训练、参数高效微调、强化学习与 RLHF、Agent/… |
-| [office-docs](office-docs/) | 7 | 办公文档处理：Word、PowerPoint、Excel、PDF 的创建与解析，… |
+| [office-docs](office-docs/) | 6 | 办公文档处理：Word、PowerPoint、Excel、PDF 的创建与解析，… |
 | [patents](patents/) | 11 | 专利撰写与检索：权利要求与说明书撰写、实施例与附图说明、现有技术查新、专利审查与… |
 | [peer-review](peer-review/) | 18 | 同行评审与质量审计：自动评审循环、反驳信（rebuttal）、引用真实性与数据声… |
 | [research-workflow](research-workflow/) | 38 | 从科研想法到实验的完整流程：选题与头脑风暴、假设生成、实验设计与执行、结果分析、… |
