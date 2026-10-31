@@ -1,0 +1,4 @@
+interface:
+  display_name: "识途老马公众号写作"
+  short_description: "撰写学生信与文献精读两个公众号系列文章，含 docx 输出"
+  default_prompt: "Use $lky-shitudelaoma to write the next issue of the WeChat series."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "LKY Report PPT"
+  short_description: "Build and verify Chinese group-meeting report decks"
+  default_prompt: "Use $lky-report-ppt to turn these reading notes into a group-meeting deck, then verify the layout and fonts before handing it over."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Reading"
+  short_description: "Turn papers into Obsidian deep-reading notes"
+  default_prompt: "Use $obsidian-reading to turn this folder of papers into Obsidian deep-reading notes with frontmatter, a Chinese reading report, and section-by-section key-sentence extraction."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "老马中文润色"
+  short_description: "去除 AI 腔并核对文章段落逻辑、证据强度与引用边界"
+  default_prompt: "Use $lky-polish to revise this Chinese article without changing its evidence or citations."

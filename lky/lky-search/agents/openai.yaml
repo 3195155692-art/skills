@@ -1,0 +1,4 @@
+interface:
+  display_name: "LKY Search"
+  short_description: "检索并归档 PubMed / 谷歌学术 / OpenAlex 等公共数据库文献"
+  default_prompt: "Use $lky-search to search public scholarly databases for this topic, deduplicate the results, and archive them into my knowledge base by topic."

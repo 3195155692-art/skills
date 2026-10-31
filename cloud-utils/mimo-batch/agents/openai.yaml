@@ -1,0 +1,3 @@
+interface:
+  display_name: "MiMo Batch"
+  short_description: "Automate MiMo Batch API jobs and download joined results"
